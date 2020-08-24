@@ -1,16 +1,27 @@
 ### Hi there 👋
+I'm Julian, currently a Computer Science Student.
 
-<!--
-**distrustME/distrustME** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 👷 Check out what I'm currently working on
 
-Here are some ideas to get you started:
+- [fujaba/fulib](https://github.com/fujaba/fulib) (9 months ago)- Fujaba library
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🌱 My latest projects
+
+
+#### 🔭 Latest releases I've contributed to
+
+- [fujaba/fulib](https://github.com/fujaba/fulib) ([v1.2.1](https://github.com/fujaba/fulib/releases/tag/v1.2.1), 1 week ago) - Fujaba library
+
+#### 👯 Check out some of my recent followers
+
+- [nataschu](https://github.com/nataschu)
+- [Kuenssi](https://github.com/Kuenssi)
+- [nikeee](https://github.com/nikeee)
+- [Clashsoft](https://github.com/Clashsoft)
+- [Schoene1](https://github.com/Schoene1)
+
+#### 💬 Feedback
+Don't be shy and let me know what you liked and what needs being improved. 
+Got an issue? Open a ticket. I will try my best to help you out.
+
+Check out [readme-scribe](https://github.com/muesli/readme-scribe) if you are interested in generating your own profile-readme!
