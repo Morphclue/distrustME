@@ -14,11 +14,11 @@ I'm Julian, currently a Computer Science Student.
 
 #### 👯 Check out some of my recent followers
 
+- [KosrenDQ](https://github.com/KosrenDQ)
 - [nataschu](https://github.com/nataschu)
 - [Kuenssi](https://github.com/Kuenssi)
 - [nikeee](https://github.com/nikeee)
 - [Clashsoft](https://github.com/Clashsoft)
-- [Schoene1](https://github.com/Schoene1)
 
 #### 💬 Feedback
 Don't be shy and let me know what you liked and what needs being improved. 
