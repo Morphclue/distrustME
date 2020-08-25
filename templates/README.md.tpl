@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src = 'https://github.com/distrustME/distrustME/blob/master/assets/animated-logo.gif' alt = 'Animated Logo' align='right'/>
+<img align="right" src="https://github.com/distrustME/distrustME/blob/master/assets/animated-logo.gif" alt="Animated Logo" width="256" height="256" />
 I'm Julian, currently a Computer Science Student.
 
 #### 👷 Check out what I'm currently working on
