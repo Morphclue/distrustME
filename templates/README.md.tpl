@@ -25,4 +25,8 @@ I'm Julian, currently a Computer Science Student.
 Don't be shy and let me know what you liked and what needs being improved. 
 Got an issue? Open a ticket. I will try my best to help you out.
 
+### 🔅 Stats
+![distrustME's github stats](https://github-readme-stats.vercel.app/api?username=distrustME&show_icons=true&theme=dracula)
+
+### ❗ Want your own profile-readme?
 Check out [readme-scribe](https://github.com/muesli/readme-scribe) if you are interested in generating your own profile-readme!
