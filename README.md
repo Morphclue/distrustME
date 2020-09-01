@@ -13,7 +13,7 @@ I wanted to focus more on open-source development in the future and help out oth
 
 #### 🔭 Latest releases I've contributed to
 
-- [fujaba/fulib](https://github.com/fujaba/fulib) ([v1.2.2](https://github.com/fujaba/fulib/releases/tag/v1.2.2), 5 days ago) - Fujaba library
+- [fujaba/fulib](https://github.com/fujaba/fulib) ([v1.2.2](https://github.com/fujaba/fulib/releases/tag/v1.2.2), 6 days ago) - Fujaba library
 
 #### 👯 Check out some of my recent followers
 
