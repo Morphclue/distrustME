@@ -6,7 +6,7 @@ I wanted to focus more on open-source development in the future and help out oth
 
 #### 👷 Check out what I'm currently working on
 
-- [fujaba/fulib](https://github.com/fujaba/fulib) (9 months ago)- Fujaba library
+- [fujaba/fulib](https://github.com/fujaba/fulib) (10 months ago)- Fujaba library
 
 #### 🌱 My latest projects
 
