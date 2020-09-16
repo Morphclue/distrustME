@@ -17,11 +17,11 @@ I wanted to focus more on open-source development in the future and help out oth
 
 #### 👯 Check out some of my recent followers
 
+- [insidelife](https://github.com/insidelife)
 - [KosrenDQ](https://github.com/KosrenDQ)
 - [nataschu](https://github.com/nataschu)
 - [Kuenssi](https://github.com/Kuenssi)
 - [nikeee](https://github.com/nikeee)
-- [Clashsoft](https://github.com/Clashsoft)
 
 #### 💬 Feedback
 Don't be shy and let me know what you liked and what needs being improved. 
