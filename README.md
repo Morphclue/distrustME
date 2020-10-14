@@ -6,15 +6,15 @@ I wanted to focus more on open-source development in the future and help out oth
 
 #### 👷 Check out what I'm currently working on
 
-- [andli/pymkm](https://github.com/andli/pymkm) (2 weeks ago)- Python wrapper for the cardmarket.com API. Also contains a working example app with price updating of your personal stock.
-- [fujaba/fulib](https://github.com/fujaba/fulib) (10 months ago)- Fujaba library
+- [andli/pymkm](https://github.com/andli/pymkm) (3 weeks ago)- Python wrapper for the cardmarket.com API. Also contains a working example app with price updating of your personal stock.
+- [fujaba/fulib](https://github.com/fujaba/fulib) (11 months ago)- Fujaba library
 
 #### 🌱 My latest projects
 
 
 #### 🔭 Latest releases I've contributed to
 
-- [fujaba/fulib](https://github.com/fujaba/fulib) ([v1.3.0](https://github.com/fujaba/fulib/releases/tag/v1.3.0), 1 week ago) - Fujaba library
+- [fujaba/fulib](https://github.com/fujaba/fulib) ([v1.3.0](https://github.com/fujaba/fulib/releases/tag/v1.3.0), 2 weeks ago) - Fujaba library
 - [andli/pymkm](https://github.com/andli/pymkm) ([1.8.1](https://github.com/andli/pymkm/releases/tag/1.8.1), 2 weeks ago) - Python wrapper for the cardmarket.com API. Also contains a working example app with price updating of your personal stock.
 
 #### 👯 Check out some of my recent followers
