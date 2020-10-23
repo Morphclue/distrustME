@@ -6,7 +6,7 @@ I wanted to focus more on open-source development in the future and help out oth
 
 #### 👷 Check out what I'm currently working on
 
-- [andli/pymkm](https://github.com/andli/pymkm) (4 weeks ago)- Python wrapper for the cardmarket.com API. Also contains a working example app with price updating of your personal stock.
+- [andli/pymkm](https://github.com/andli/pymkm) (1 month ago)- Python wrapper for the cardmarket.com API. Also contains a working example app with price updating of your personal stock.
 - [fujaba/fulib](https://github.com/fujaba/fulib) (11 months ago)- Fujaba library
 
 #### 🌱 My latest projects
