@@ -6,7 +6,7 @@ I wanted to focus more on open-source development in the future and help out oth
 
 #### 👷 Check out what I'm currently working on
 
-- [bartwe/StaxelTranslations](https://github.com/bartwe/StaxelTranslations) (3 days ago)- Translations for Staxel (playstaxel.com)
+- [bartwe/StaxelTranslations](https://github.com/bartwe/StaxelTranslations) (4 days ago)- Translations for Staxel (playstaxel.com)
 - [andli/pymkm](https://github.com/andli/pymkm) (1 month ago)- Python wrapper for the cardmarket.com API. Also contains a working example app with price updating of your personal stock.
 - [fujaba/fulib](https://github.com/fujaba/fulib) (11 months ago)- Fujaba library
 
