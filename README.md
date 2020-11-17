@@ -6,7 +6,7 @@ I wanted to focus more on open-source development in the future and help out oth
 
 #### 👷 Check out what I'm currently working on
 
-- [sekassel-research/org-repo-name-fetcher](https://github.com/sekassel-research/org-repo-name-fetcher) (1 day ago)- This script fetches all names with a specific prefix in an organisation.
+- [sekassel-research/org-repo-name-fetcher](https://github.com/sekassel-research/org-repo-name-fetcher) (2 days ago)- This script fetches all names with a specific prefix in an organisation.
 - [bartwe/StaxelTranslations](https://github.com/bartwe/StaxelTranslations) (2 weeks ago)- Translations for Staxel (playstaxel.com)
 - [andli/pymkm](https://github.com/andli/pymkm) (1 month ago)- Python wrapper for the cardmarket.com API. Also contains a working example app with price updating of your personal stock.
 - [fujaba/fulib](https://github.com/fujaba/fulib) (1 year ago)- Fujaba library
@@ -16,8 +16,8 @@ I wanted to focus more on open-source development in the future and help out oth
 
 #### 🔭 Latest releases I've contributed to
 
-- [andli/pymkm](https://github.com/andli/pymkm) ([2.0.1](https://github.com/andli/pymkm/releases/tag/2.0.1), today) - Python wrapper for the cardmarket.com API. Also contains a working example app with price updating of your personal stock.
-- [fujaba/fulib](https://github.com/fujaba/fulib) ([v1.4.1](https://github.com/fujaba/fulib/releases/tag/v1.4.1), 2 days ago) - Fujaba library
+- [andli/pymkm](https://github.com/andli/pymkm) ([2.0.1](https://github.com/andli/pymkm/releases/tag/2.0.1), 1 day ago) - Python wrapper for the cardmarket.com API. Also contains a working example app with price updating of your personal stock.
+- [fujaba/fulib](https://github.com/fujaba/fulib) ([v1.4.1](https://github.com/fujaba/fulib/releases/tag/v1.4.1), 3 days ago) - Fujaba library
 
 #### 👯 Check out some of my recent followers
 
