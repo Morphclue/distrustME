@@ -17,7 +17,6 @@ I wanted to focus more on open-source development in the future and help out oth
 #### 🔭 Latest releases I've contributed to
 
 - [andli/pymkm](https://github.com/andli/pymkm) ([2.0.3](https://github.com/andli/pymkm/releases/tag/2.0.3), 2 days ago) - Python wrapper for the cardmarket.com API. Also contains a working app with price updating of your personal stock, csv import etc.
-- [fujaba/fulib](https://github.com/fujaba/fulib) ([v1.4.1](https://github.com/fujaba/fulib/releases/tag/v1.4.1), 5 days ago) - Fujaba library
 
 #### 👯 Check out some of my recent followers
 
