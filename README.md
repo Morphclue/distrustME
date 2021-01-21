@@ -8,14 +8,14 @@ I wanted to focus more on open-source development in the future and help out oth
 
 - [sekassel-research/org-repo-name-fetcher](https://github.com/sekassel-research/org-repo-name-fetcher) (2 months ago)- This script fetches all names with a specific prefix in an organisation.
 - [bartwe/StaxelTranslations](https://github.com/bartwe/StaxelTranslations) (2 months ago)- Translations for Staxel (playstaxel.com)
-- [andli/pymkm](https://github.com/andli/pymkm) (3 months ago)- Python wrapper for the cardmarket.com API. Also contains a working app with price updating of your personal stock, csv import etc.
+- [andli/pymkm](https://github.com/andli/pymkm) (4 months ago)- Python wrapper for the cardmarket.com API. Also contains a working app with price updating of your personal stock, csv import etc.
 
 #### 🌱 My latest projects
 
 
 #### 🔭 Latest releases I've contributed to
 
-- [andli/pymkm](https://github.com/andli/pymkm) ([2.3.0](https://github.com/andli/pymkm/releases/tag/2.3.0), 5 days ago) - Python wrapper for the cardmarket.com API. Also contains a working app with price updating of your personal stock, csv import etc.
+- [andli/pymkm](https://github.com/andli/pymkm) ([2.3.0](https://github.com/andli/pymkm/releases/tag/2.3.0), 6 days ago) - Python wrapper for the cardmarket.com API. Also contains a working app with price updating of your personal stock, csv import etc.
 
 #### 👯 Check out some of my recent followers
 
