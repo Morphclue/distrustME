@@ -8,7 +8,7 @@ I wanted to focus more on open-source development in the future and help out oth
 
 - [sekassel-research/caas-platform](https://github.com/sekassel-research/caas-platform) (4 weeks ago)- Certification as a Service Monorepo
 - [sekassel-research/org-repo-name-fetcher](https://github.com/sekassel-research/org-repo-name-fetcher) (3 months ago)- This script fetches all names with a specific prefix in an organisation.
-- [bartwe/StaxelTranslations](https://github.com/bartwe/StaxelTranslations) (3 months ago)- Translations for Staxel (playstaxel.com)
+- [bartwe/StaxelTranslations](https://github.com/bartwe/StaxelTranslations) (4 months ago)- Translations for Staxel (playstaxel.com)
 - [andli/pymkm](https://github.com/andli/pymkm) (5 months ago)- Python wrapper for the cardmarket.com API. Also contains a working app with price updating of your personal stock, csv import etc.
 
 #### 🌱 My latest projects
@@ -16,7 +16,7 @@ I wanted to focus more on open-source development in the future and help out oth
 
 #### 🔭 Latest releases I've contributed to
 
-- [andli/pymkm](https://github.com/andli/pymkm) ([2.4.1](https://github.com/andli/pymkm/releases/tag/2.4.1), 1 week ago) - Python wrapper for the cardmarket.com API. Also contains a working app with price updating of your personal stock, csv import etc.
+- [andli/pymkm](https://github.com/andli/pymkm) ([2.4.1](https://github.com/andli/pymkm/releases/tag/2.4.1), 2 weeks ago) - Python wrapper for the cardmarket.com API. Also contains a working app with price updating of your personal stock, csv import etc.
 
 #### 👯 Check out some of my recent followers
 
