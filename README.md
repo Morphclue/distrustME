@@ -6,7 +6,7 @@ I wanted to focus more on open-source development in the future and help out oth
 
 #### 👷 Check out what I'm currently working on
 
-- [sekassel-research/caas-platform](https://github.com/sekassel-research/caas-platform) (1 day ago)- Certification as a Service Monorepo
+- [sekassel-research/caas-platform](https://github.com/sekassel-research/caas-platform) (2 days ago)- Certification as a Service Monorepo
 - [sekassel-research/org-repo-name-fetcher](https://github.com/sekassel-research/org-repo-name-fetcher) (3 months ago)- This script fetches all names with a specific prefix in an organisation.
 - [bartwe/StaxelTranslations](https://github.com/bartwe/StaxelTranslations) (4 months ago)- Translations for Staxel (playstaxel.com)
 - [andli/pymkm](https://github.com/andli/pymkm) (5 months ago)- Python wrapper for the cardmarket.com API. Also contains a working app with price updating of your personal stock, csv import etc.
