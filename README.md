@@ -6,7 +6,7 @@ I wanted to focus more on open-source development in the future and help out oth
 
 #### 👷 Check out what I'm currently working on
 
-- [distrustME/START-Hack-21](https://github.com/distrustME/START-Hack-21) (today)- 
+- [distrustME/START-Hack-21](https://github.com/distrustME/START-Hack-21) (today)- Project START Hackathon - 2021
 - [sekassel-research/caas-platform](https://github.com/sekassel-research/caas-platform) (3 days ago)- Certification as a Service Monorepo
 - [sekassel-research/org-repo-name-fetcher](https://github.com/sekassel-research/org-repo-name-fetcher) (4 months ago)- This script fetches all names with a specific prefix in an organisation.
 - [bartwe/StaxelTranslations](https://github.com/bartwe/StaxelTranslations) (4 months ago)- Translations for Staxel (playstaxel.com)
@@ -14,7 +14,7 @@ I wanted to focus more on open-source development in the future and help out oth
 
 #### 🌱 My latest projects
 
-- [distrustME/START-Hack-21](https://github.com/distrustME/START-Hack-21) - 
+- [distrustME/START-Hack-21](https://github.com/distrustME/START-Hack-21) - Project START Hackathon - 2021
 
 #### 🔭 Latest releases I've contributed to
 
