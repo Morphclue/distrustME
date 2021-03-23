@@ -6,8 +6,8 @@ I wanted to focus more on open-source development in the future and help out oth
 
 #### 👷 Check out what I'm currently working on
 
-- [distrustME/START-Hack-21](https://github.com/distrustME/START-Hack-21) (1 day ago)- START Hackathon - 2021
-- [sekassel-research/caas-platform](https://github.com/sekassel-research/caas-platform) (4 days ago)- Certification as a Service Monorepo
+- [distrustME/START-Hack-21](https://github.com/distrustME/START-Hack-21) (2 days ago)- START Hackathon - 2021
+- [sekassel-research/caas-platform](https://github.com/sekassel-research/caas-platform) (5 days ago)- Certification as a Service Monorepo
 - [sekassel-research/org-repo-name-fetcher](https://github.com/sekassel-research/org-repo-name-fetcher) (4 months ago)- This script fetches all names with a specific prefix in an organisation.
 - [bartwe/StaxelTranslations](https://github.com/bartwe/StaxelTranslations) (4 months ago)- Translations for Staxel (playstaxel.com)
 - [andli/pymkm](https://github.com/andli/pymkm) (6 months ago)- Python wrapper for the cardmarket.com API. Also contains a working app with price updating of your personal stock, csv import etc.
@@ -18,7 +18,7 @@ I wanted to focus more on open-source development in the future and help out oth
 
 #### 🔭 Latest releases I've contributed to
 
-- [andli/pymkm](https://github.com/andli/pymkm) ([2.5.0](https://github.com/andli/pymkm/releases/tag/2.5.0), 2 weeks ago) - Python wrapper for the cardmarket.com API. Also contains a working app with price updating of your personal stock, csv import etc.
+- [andli/pymkm](https://github.com/andli/pymkm) ([2.5.0](https://github.com/andli/pymkm/releases/tag/2.5.0), 3 weeks ago) - Python wrapper for the cardmarket.com API. Also contains a working app with price updating of your personal stock, csv import etc.
 
 #### 👯 Check out some of my recent followers
 
