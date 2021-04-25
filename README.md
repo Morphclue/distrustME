@@ -18,7 +18,7 @@ I wanted to focus more on open-source development in the future and help out oth
 
 #### 🔭 Latest releases I've contributed to
 
-- [andli/pymkm](https://github.com/andli/pymkm) ([2.5.1](https://github.com/andli/pymkm/releases/tag/2.5.1), 4 weeks ago) - Python wrapper for the cardmarket.com API. Also contains a working app with price updating of your personal stock, csv import etc.
+- [andli/pymkm](https://github.com/andli/pymkm) ([2.5.1](https://github.com/andli/pymkm/releases/tag/2.5.1), 1 month ago) - Python wrapper for the cardmarket.com API. Also contains a working app with price updating of your personal stock, csv import etc.
 
 #### 👯 Check out some of my recent followers
 
