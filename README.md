@@ -6,11 +6,11 @@ I wanted to focus more on open-source development in the future and help out oth
 
 #### 👷 Check out what I'm currently working on
 
-- [sekassel/STPST21Server](https://github.com/sekassel/STPST21Server) (today)- Repository for Bug Issues or Feature Requests
-- [sekassel-research/caas-platform](https://github.com/sekassel-research/caas-platform) (1 week ago)- Certification as a Service Monorepo
+- [sekassel/STPST21Server](https://github.com/sekassel/STPST21Server) (1 day ago)- Repository for Bug Issues or Feature Requests
+- [sekassel-research/caas-platform](https://github.com/sekassel-research/caas-platform) (2 weeks ago)- Certification as a Service Monorepo
 - [distrustME/START-Hack-21](https://github.com/distrustME/START-Hack-21) (1 month ago)- START Hackathon - 2021
 - [sekassel-research/org-repo-name-fetcher](https://github.com/sekassel-research/org-repo-name-fetcher) (5 months ago)- This script fetches all names with a specific prefix in an organisation.
-- [bartwe/StaxelTranslations](https://github.com/bartwe/StaxelTranslations) (5 months ago)- Translations for Staxel (playstaxel.com)
+- [bartwe/StaxelTranslations](https://github.com/bartwe/StaxelTranslations) (6 months ago)- Translations for Staxel (playstaxel.com)
 - [andli/pymkm](https://github.com/andli/pymkm) (7 months ago)- Python wrapper for the cardmarket.com API. Also contains a working app with price updating of your personal stock, csv import etc.
 
 #### 🌱 My latest projects
