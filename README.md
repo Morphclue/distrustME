@@ -35,7 +35,7 @@ Don't be shy and let me know what you liked and what needs being improved.
 Got an issue? Open a ticket. I will try my best to help you out.
 
 ### 🔅 Stats
-![distrustME Profile Stats](https://github-readme-stats.vercel.app/api?username=distrustME&show_icons=true&theme=dark&count_private=true&icon_color=0075ff&include_all_commits=true)
+![distrustME Profile Stats](https://github-readme-stats.vercel.app/api?username=distrustME&show_icons=true&theme=dark&count_private=true&icon_color=0075ff&include_all_commits=true&custom_title=distrustME%27s+GitHub+Stats)
 ![distrustME Time Stats](https://github-readme-stats.vercel.app/api/wakatime?username=distrustME&theme=dark&layout=compact&langs_count=10)
 ![distrustME Streak Stats](http://github-readme-streak-stats.herokuapp.com?user=distrustME&theme=dark)
 
