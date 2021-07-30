@@ -6,8 +6,8 @@ I wanted to focus more on open-source development in the future and help out oth
 
 #### 👷 Check out what I'm currently working on
 
+- [distrustME/streamdeck-wakatime](https://github.com/distrustME/streamdeck-wakatime) (today)- 
 - [distrustME/pata-beat](https://github.com/distrustME/pata-beat) (1 day ago)- Rhythm based input engine similiar to the game Patapon
-- [distrustME/streamdeck-wakatime](https://github.com/distrustME/streamdeck-wakatime) (1 day ago)- 
 - [sekassel-research/caas-platform](https://github.com/sekassel-research/caas-platform) (1 month ago)- Certification as a Service Monorepo
 - [github/docs](https://github.com/github/docs) (1 month ago)- The open-source repo for docs.github.com
 - [sekassel/STPST21Server](https://github.com/sekassel/STPST21Server) (3 months ago)- Repository for Bug Issues or Feature Requests
