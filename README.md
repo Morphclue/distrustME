@@ -6,7 +6,7 @@ I wanted to focus more on open-source development in the future and help out oth
 
 #### 👷 Check out what I'm currently working on
 
-- [distrustME/streamdeck-wakatime](https://github.com/distrustME/streamdeck-wakatime) (4 days ago)- 
+- [distrustME/streamdeck-wakatime](https://github.com/distrustME/streamdeck-wakatime) (today)- WakaTime-Plugin for the Elgato Streamdeck 
 - [distrustME/pata-beat](https://github.com/distrustME/pata-beat) (5 days ago)- Rhythm based input engine similiar to the game Patapon
 - [sekassel-research/caas-platform](https://github.com/sekassel-research/caas-platform) (2 months ago)- Certification as a Service Monorepo
 - [github/docs](https://github.com/github/docs) (2 months ago)- The open-source repo for docs.github.com
@@ -18,7 +18,7 @@ I wanted to focus more on open-source development in the future and help out oth
 
 #### 🌱 My latest projects
 
-- [distrustME/streamdeck-wakatime](https://github.com/distrustME/streamdeck-wakatime) - 
+- [distrustME/streamdeck-wakatime](https://github.com/distrustME/streamdeck-wakatime) - WakaTime-Plugin for the Elgato Streamdeck 
 - [distrustME/pata-beat](https://github.com/distrustME/pata-beat) - Rhythm based input engine similiar to the game Patapon
 - [distrustME/START-Hack-21](https://github.com/distrustME/START-Hack-21) - START Hackathon - 2021
 
