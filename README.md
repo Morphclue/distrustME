@@ -6,13 +6,13 @@ I wanted to focus more on open-source development in the future and help out oth
 
 #### 👷 Check out what I'm currently working on
 
-- [distrustME/streamdeck-wakatime](https://github.com/distrustME/streamdeck-wakatime) (today)- WakaTime-Plugin for the Elgato Streamdeck 
-- [distrustME/pata-beat](https://github.com/distrustME/pata-beat) (5 days ago)- Rhythm based input engine similiar to the game Patapon
+- [distrustME/streamdeck-wakatime](https://github.com/distrustME/streamdeck-wakatime) (1 day ago)- WakaTime-Plugin for the Elgato Streamdeck 
+- [distrustME/pata-beat](https://github.com/distrustME/pata-beat) (6 days ago)- Rhythm based input engine similiar to the game Patapon
 - [sekassel-research/caas-platform](https://github.com/sekassel-research/caas-platform) (2 months ago)- Certification as a Service Monorepo
 - [github/docs](https://github.com/github/docs) (2 months ago)- The open-source repo for docs.github.com
 - [sekassel/STPST21Server](https://github.com/sekassel/STPST21Server) (3 months ago)- Repository for Bug Issues or Feature Requests
 - [distrustME/START-Hack-21](https://github.com/distrustME/START-Hack-21) (4 months ago)- START Hackathon - 2021
-- [sekassel-research/org-repo-name-fetcher](https://github.com/sekassel-research/org-repo-name-fetcher) (8 months ago)- This script fetches all names with a specific prefix in an organisation.
+- [sekassel-research/org-repo-name-fetcher](https://github.com/sekassel-research/org-repo-name-fetcher) (9 months ago)- This script fetches all names with a specific prefix in an organisation.
 - [bartwe/StaxelTranslations](https://github.com/bartwe/StaxelTranslations) (9 months ago)- Translations for Staxel (playstaxel.com)
 - [andli/pymkm](https://github.com/andli/pymkm) (10 months ago)- Python wrapper for the cardmarket.com API. Also contains a working app with price updating of your personal stock, csv import etc.
 
