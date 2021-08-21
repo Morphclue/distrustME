@@ -6,12 +6,12 @@ I wanted to focus more on open-source development in the future and help out oth
 
 #### 👷 Check out what I'm currently working on
 
-- [Morphclue/streamdeck-wakatime](https://github.com/Morphclue/streamdeck-wakatime) (1 day ago)- WakaTime-Plugin for the Elgato Streamdeck 
-- [Morphclue/pata-beat](https://github.com/Morphclue/pata-beat) (6 days ago)- Rhythm based input engine similiar to the game Patapon
+- [Morphclue/streamdeck-wakatime](https://github.com/Morphclue/streamdeck-wakatime) (2 days ago)- WakaTime-Plugin for the Elgato Streamdeck 
+- [Morphclue/pata-beat](https://github.com/Morphclue/pata-beat) (1 week ago)- Rhythm based input engine similiar to the game Patapon
 - [sekassel-research/caas-platform](https://github.com/sekassel-research/caas-platform) (2 months ago)- Certification as a Service Monorepo
 - [github/docs](https://github.com/github/docs) (2 months ago)- The open-source repo for docs.github.com
 - [sekassel/STPST21Server](https://github.com/sekassel/STPST21Server) (3 months ago)- Repository for Bug Issues or Feature Requests
-- [Morphclue/START-Hack-21](https://github.com/Morphclue/START-Hack-21) (4 months ago)- START Hackathon - 2021
+- [Morphclue/START-Hack-21](https://github.com/Morphclue/START-Hack-21) (5 months ago)- START Hackathon - 2021
 - [sekassel-research/org-repo-name-fetcher](https://github.com/sekassel-research/org-repo-name-fetcher) (9 months ago)- This script fetches all names with a specific prefix in an organisation.
 - [bartwe/StaxelTranslations](https://github.com/bartwe/StaxelTranslations) (9 months ago)- Translations for Staxel (playstaxel.com)
 - [andli/pymkm](https://github.com/andli/pymkm) (11 months ago)- Python wrapper for the cardmarket.com API. Also contains a working app with price updating of your personal stock, csv import etc.
@@ -24,7 +24,7 @@ I wanted to focus more on open-source development in the future and help out oth
 
 #### 🔭 Latest releases I've contributed to
 
-- [Morphclue/streamdeck-wakatime](https://github.com/Morphclue/streamdeck-wakatime) ([v1.0.10](https://github.com/Morphclue/streamdeck-wakatime/releases/tag/v1.0.10), 1 day ago) - WakaTime-Plugin for the Elgato Streamdeck 
+- [Morphclue/streamdeck-wakatime](https://github.com/Morphclue/streamdeck-wakatime) ([v1.0.10](https://github.com/Morphclue/streamdeck-wakatime/releases/tag/v1.0.10), 2 days ago) - WakaTime-Plugin for the Elgato Streamdeck 
 - [andli/pymkm](https://github.com/andli/pymkm) ([2.5.1](https://github.com/andli/pymkm/releases/tag/2.5.1), 4 months ago) - Python wrapper for the cardmarket.com API. Also contains a working app with price updating of your personal stock, csv import etc.
 
 #### 👯 Check out some of my recent followers
