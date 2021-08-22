@@ -33,5 +33,5 @@ Got an issue? Open a ticket. I will try my best to help you out.
 ![Morphclue Time Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Morphclue&theme=dark&layout=compact&langs_count=10)
 ![Morphclue Streak Stats](http://github-readme-streak-stats.herokuapp.com?user=Morphclue&theme=dark)
 
-### ❗ Want your own profile-readme?
-Check out [readme-scribe](https://github.com/muesli/readme-scribe) if you are interested in generating your own profile-readme!
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Morphclue Activity Graph" 
+src="https://activity-graph.herokuapp.com/graph?username=Morphclue&bg_color=141414&color=FFFFFF&line=ea8204&point=c3c3c3&hide_border=true" /></a>
