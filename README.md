@@ -40,7 +40,7 @@ Don't be shy and let me know what you liked and what needs being improved.
 Got an issue? Open a ticket. I will try my best to help you out.
 
 ### 🔅 Stats
-![Morphclue Profile Stats](https://github-readme-stats.vercel.app/api?username=Morphclue&show_icons=true&theme=dark&count_private=true&icon_color=0075ff&include_all_commits=true&custom_title=Morphclue%27s+GitHub+Stats)
+![Morphclue Profile Stats](https://github-readme-stats.vercel.app/api?username=Morphclue&show_icons=true&theme=dark&count_private=true&icon_color=0075ff&include_all_commits=true&custom_title=distrustME%27s+GitHub+Stats)
 ![Morphclue Time Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Morphclue&theme=dark&layout=compact&langs_count=10)
 ![Morphclue Streak Stats](http://github-readme-streak-stats.herokuapp.com?user=Morphclue&theme=dark)
 
