@@ -6,7 +6,7 @@ I wanted to focus more on open-source development in the future and help out oth
 
 #### 👷 Check out what I'm currently working on
 
-- [Morphclue/streamdeck-wakatime](https://github.com/Morphclue/streamdeck-wakatime) (2 days ago)- WakaTime-Plugin for the Elgato Streamdeck 
+- [Morphclue/streamdeck-wakatime](https://github.com/Morphclue/streamdeck-wakatime) (3 days ago)- WakaTime-Plugin for the Elgato Streamdeck 
 - [Morphclue/pata-beat](https://github.com/Morphclue/pata-beat) (1 week ago)- Rhythm based input engine similiar to the game Patapon
 - [sekassel-research/caas-platform](https://github.com/sekassel-research/caas-platform) (2 months ago)- Certification as a Service Monorepo
 - [github/docs](https://github.com/github/docs) (2 months ago)- The open-source repo for docs.github.com
@@ -24,7 +24,7 @@ I wanted to focus more on open-source development in the future and help out oth
 
 #### 🔭 Latest releases I've contributed to
 
-- [Morphclue/streamdeck-wakatime](https://github.com/Morphclue/streamdeck-wakatime) ([v1.0.10](https://github.com/Morphclue/streamdeck-wakatime/releases/tag/v1.0.10), 2 days ago) - WakaTime-Plugin for the Elgato Streamdeck 
+- [Morphclue/streamdeck-wakatime](https://github.com/Morphclue/streamdeck-wakatime) ([v1.0.10](https://github.com/Morphclue/streamdeck-wakatime/releases/tag/v1.0.10), 3 days ago) - WakaTime-Plugin for the Elgato Streamdeck 
 - [andli/pymkm](https://github.com/andli/pymkm) ([2.5.1](https://github.com/andli/pymkm/releases/tag/2.5.1), 4 months ago) - Python wrapper for the cardmarket.com API. Also contains a working app with price updating of your personal stock, csv import etc.
 
 #### 👯 Check out some of my recent followers
