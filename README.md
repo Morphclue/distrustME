@@ -55,7 +55,7 @@ Got an issue? Open a ticket. I will try my best to help you out.
   height="192px" width="400px"/>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=Morphclue&theme=dark&layout=compact&langs_count=10" height="192px" width="400px"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=Morphclue&theme=dark&layout=compact&langs_count=10" height="200px" width="400px"/>
 </a>
 
 
