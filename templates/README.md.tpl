@@ -41,10 +41,10 @@ Got an issue? Open a ticket. I will try my best to help you out.
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" 
   src="https://github-readme-stats.vercel.app/api?username=Morphclue&show_icons=true&theme=dark&count_private=true&icon_color=0075ff&include_all_commits=true&custom_title=Morphclue%27s+GitHub+Stats"
-  height="192px" width="200px"/>
+  height="192px" width="400px"/>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Morphclue&theme=dark&layout=compact&langs_count=10" height="192px" width="200px"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Morphclue&theme=dark&layout=compact&langs_count=10" height="192px" width="400px"/>
 </a>
 
 
