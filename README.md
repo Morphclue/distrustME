@@ -39,10 +39,23 @@ I wanted to focus more on open-source development in the future and help out oth
 Don't be shy and let me know what you liked and what needs being improved. 
 Got an issue? Open a ticket. I will try my best to help you out.
 
-### 🔅 Stats
-![Morphclue Profile Stats](https://github-readme-stats.vercel.app/api?username=Morphclue&show_icons=true&theme=dark&count_private=true&icon_color=0075ff&include_all_commits=true&custom_title=Morphclue%27s+GitHub+Stats)
-![Morphclue Time Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Morphclue&theme=dark&layout=compact&langs_count=10)
-![Morphclue Streak Stats](http://github-readme-streak-stats.herokuapp.com?user=Morphclue&theme=dark)
+### 📊 Stats
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img title="🔥 Streak Stats" alt="Morphclue Streak Stats" src="http://github-readme-streak-stats.herokuapp.com?user=Morphclue&theme=dark"/>
+  </a>
+</p>
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Morphclue&show_icons=true&theme=dark&count_private=true&icon_color=0075ff&include_all_commits=true&custom_title=Morphclue%27s+GitHub+Stats" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Morphclue&theme=dark&layout=compact&langs_count=10" />
+</a>
+
+
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Morphclue Activity Graph" 
 src="https://activity-graph.herokuapp.com/graph?username=Morphclue&bg_color=141414&color=FFFFFF&line=ea8204&point=c3c3c3&hide_border=true" /></a>
