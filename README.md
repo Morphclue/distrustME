@@ -5,7 +5,7 @@
 I'm Julian, currently a Computer Science Student. Most of my actions were made in private repositories.
 I wanted to focus more on open-source development in the future and help out other developer when i got time available.
 
-#### 👷 Check out what I'm currently working on 
+#### 👷 Check out what I'm currently working on
 
 - [Morphclue/streamdeck-wakatime](https://github.com/Morphclue/streamdeck-wakatime) (2 days ago)- WakaTime-Plugin for the Elgato Streamdeck 
 - [Morphclue/pata-beat](https://github.com/Morphclue/pata-beat) (4 days ago)- Rhythm based input engine similiar to the game Patapon
