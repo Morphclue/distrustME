@@ -7,9 +7,9 @@ I wanted to focus more on open-source development in the future and help out oth
 
 #### 👷 Check out what I'm currently working on
 
-- [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) (today)- :zap: Dynamically generated stats for your github readmes
-- [Morphclue/streamdeck-wakatime](https://github.com/Morphclue/streamdeck-wakatime) (3 days ago)- WakaTime-Plugin for the Elgato Streamdeck 
-- [Morphclue/pata-beat](https://github.com/Morphclue/pata-beat) (6 days ago)- Rhythm based input engine similiar to the game Patapon
+- [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) (1 day ago)- :zap: Dynamically generated stats for your github readmes
+- [Morphclue/streamdeck-wakatime](https://github.com/Morphclue/streamdeck-wakatime) (4 days ago)- WakaTime-Plugin for the Elgato Streamdeck 
+- [Morphclue/pata-beat](https://github.com/Morphclue/pata-beat) (1 week ago)- Rhythm based input engine similiar to the game Patapon
 - [ninjamuffin99/Funkin](https://github.com/ninjamuffin99/Funkin) (1 week ago)- 
 - [github/docs](https://github.com/github/docs) (2 months ago)- The open-source repo for docs.github.com
 - [sekassel-research/caas-platform](https://github.com/sekassel-research/caas-platform) (2 months ago)- Certification as a Service Monorepo
@@ -26,7 +26,7 @@ I wanted to focus more on open-source development in the future and help out oth
 
 #### 🔭 Latest releases I've contributed to
 
-- [Morphclue/streamdeck-wakatime](https://github.com/Morphclue/streamdeck-wakatime) ([v1.0.12](https://github.com/Morphclue/streamdeck-wakatime/releases/tag/v1.0.12), 2 days ago) - WakaTime-Plugin for the Elgato Streamdeck 
+- [Morphclue/streamdeck-wakatime](https://github.com/Morphclue/streamdeck-wakatime) ([v1.0.12](https://github.com/Morphclue/streamdeck-wakatime/releases/tag/v1.0.12), 3 days ago) - WakaTime-Plugin for the Elgato Streamdeck 
 - [andli/pymkm](https://github.com/andli/pymkm) ([2.5.1](https://github.com/andli/pymkm/releases/tag/2.5.1), 5 months ago) - Python wrapper for the cardmarket.com API. Also contains a working app with price updating of your personal stock, csv import etc.
 - [ninjamuffin99/Funkin](https://github.com/ninjamuffin99/Funkin) ([v0.2.7.1](https://github.com/ninjamuffin99/Funkin/releases/tag/v0.2.7.1), 6 months ago) - 
 
