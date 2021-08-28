@@ -32,11 +32,11 @@ I wanted to focus more on open-source development in the future and help out oth
 
 #### 👯 Check out some of my recent followers
 
+- [YoshitakaSS](https://github.com/YoshitakaSS)
 - [Ben-Manfouo](https://github.com/Ben-Manfouo)
 - [insidelife](https://github.com/insidelife)
 - [KosrenDQ](https://github.com/KosrenDQ)
 - [nataschu](https://github.com/nataschu)
-- [Kuenssi](https://github.com/Kuenssi)
 
 #### 💬 Feedback
 Don't be shy and let me know what you liked and what needs being improved. 
