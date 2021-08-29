@@ -2,13 +2,13 @@
 
 
 <img align="right" src="https://github.com/Morphclue/Morphclue/blob/master/assets/animated-logo.gif" alt="Animated Logo" width="256" height="256" />
-I'm Julian, currently a Computer Science Student. Most of my actions were made in private repositories.
-I wanted to focus more on open-source development in the future and help out other developer when i got time available.
+I'm Julian, currently a Computer Science Student. Most of my actions were made in private repositories, but this will change in the future.
+I wanted to focus more on open-source development and help out other developers when i got time available.
 
 #### 👷 Check out what I'm currently working on
 
+- [Morphclue/pata-beat](https://github.com/Morphclue/pata-beat) (1 day ago)- Rhythm based input engine similiar to the game Patapon
 - [Morphclue/streamdeck-wakatime](https://github.com/Morphclue/streamdeck-wakatime) (5 days ago)- WakaTime-Plugin for the Elgato Streamdeck 
-- [Morphclue/pata-beat](https://github.com/Morphclue/pata-beat) (1 week ago)- Rhythm based input engine similiar to the game Patapon
 - [sekassel-research/caas-platform](https://github.com/sekassel-research/caas-platform) (2 months ago)- Certification as a Service Monorepo
 - [Morphclue/START-Hack-21](https://github.com/Morphclue/START-Hack-21) (5 months ago)- START Hackathon - 2021
 - [sekassel-research/org-repo-name-fetcher](https://github.com/sekassel-research/org-repo-name-fetcher) (9 months ago)- This script fetches all names with a specific prefix in an organisation.
