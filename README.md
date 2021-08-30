@@ -6,8 +6,8 @@ I'm Julian, currently a Computer Science Student. I wanted to focus more on open
 
 #### 👷 Check out what I'm currently working on
 
-- [Morphclue/pata-beat](https://github.com/Morphclue/pata-beat) (1 day ago)- Rhythm based input engine similiar to the game Patapon
-- [Morphclue/streamdeck-wakatime](https://github.com/Morphclue/streamdeck-wakatime) (5 days ago)- WakaTime-Plugin for the Elgato Streamdeck 
+- [Morphclue/pata-beat](https://github.com/Morphclue/pata-beat) (2 days ago)- Rhythm based input engine similiar to the game Patapon
+- [Morphclue/streamdeck-wakatime](https://github.com/Morphclue/streamdeck-wakatime) (6 days ago)- WakaTime-Plugin for the Elgato Streamdeck 
 - [sekassel-research/caas-platform](https://github.com/sekassel-research/caas-platform) (2 months ago)- Certification as a Service Monorepo
 - [Morphclue/START-Hack-21](https://github.com/Morphclue/START-Hack-21) (5 months ago)- START Hackathon - 2021
 - [sekassel-research/org-repo-name-fetcher](https://github.com/sekassel-research/org-repo-name-fetcher) (9 months ago)- This script fetches all names with a specific prefix in an organisation.
@@ -21,7 +21,7 @@ I'm Julian, currently a Computer Science Student. I wanted to focus more on open
 
 #### 🔭 Latest releases I've contributed to
 
-- [Morphclue/streamdeck-wakatime](https://github.com/Morphclue/streamdeck-wakatime) ([v1.0.12](https://github.com/Morphclue/streamdeck-wakatime/releases/tag/v1.0.12), 4 days ago) - WakaTime-Plugin for the Elgato Streamdeck 
+- [Morphclue/streamdeck-wakatime](https://github.com/Morphclue/streamdeck-wakatime) ([v1.0.12](https://github.com/Morphclue/streamdeck-wakatime/releases/tag/v1.0.12), 5 days ago) - WakaTime-Plugin for the Elgato Streamdeck 
 - [andli/pymkm](https://github.com/andli/pymkm) ([2.5.1](https://github.com/andli/pymkm/releases/tag/2.5.1), 5 months ago) - Python wrapper for the cardmarket.com API. Also contains a working app with price updating of your personal stock, csv import etc.
 - [ninjamuffin99/Funkin](https://github.com/ninjamuffin99/Funkin) ([v0.2.7.1](https://github.com/ninjamuffin99/Funkin/releases/tag/v0.2.7.1), 6 months ago) - 
 
