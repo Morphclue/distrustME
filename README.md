@@ -7,6 +7,7 @@ I wanted to focus more on open-source development in the future and help out oth
 
 #### 👷 Check out what I'm currently working on
 
+- [Morphclue/distrustME](https://github.com/Morphclue/distrustME) (1 day ago)- My personal github-profile
 - [Morphclue/pata-beat](https://github.com/Morphclue/pata-beat) (3 days ago)- Rhythm based input engine similiar to the game Patapon
 - [Morphclue/streamdeck-wakatime](https://github.com/Morphclue/streamdeck-wakatime) (1 week ago)- WakaTime-Plugin for the Elgato Streamdeck 
 - [sekassel-research/caas-platform](https://github.com/sekassel-research/caas-platform) (3 months ago)- Certification as a Service Monorepo
@@ -19,6 +20,7 @@ I wanted to focus more on open-source development in the future and help out oth
 - [Morphclue/streamdeck-wakatime](https://github.com/Morphclue/streamdeck-wakatime) - WakaTime-Plugin for the Elgato Streamdeck 
 - [Morphclue/pata-beat](https://github.com/Morphclue/pata-beat) - Rhythm based input engine similiar to the game Patapon
 - [Morphclue/START-Hack-21](https://github.com/Morphclue/START-Hack-21) - START Hackathon - 2021
+- [Morphclue/distrustME](https://github.com/Morphclue/distrustME) - My personal github-profile
 
 #### 🔭 Latest releases I've contributed to
 
